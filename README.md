@@ -22,7 +22,7 @@
    ![alt text](./github-setup.png)
 5. В файле `README.md` в строке:
 ```md
-![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/DenisPoznyakov/8.1---env/actions/workflows/web.yml/badge.svg)
 ```
 Заменить `<OWNER>` на ваш ник на github;
 
